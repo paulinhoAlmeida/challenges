@@ -1,4 +1,4 @@
-# Pomelo Coding Challenges
+# Coding Challenges
 
 This repository houses the coding challenges for Pomelo. 
 These are small hands-on projects that are very relevant to the tasks you will be working on.
@@ -42,12 +42,5 @@ Pick the one that most suits the position you wish to apply.
 **Pomelo**
 
 * Backend / NodeJS - [NodeJS](https://github.com/pomelofashion/challenges/tree/master/challenge-nodejs)
-<!-- * Backend / GoLang - [](https://github.com/pomelofashion/challenges/tree/challenge-golang)
-* Backend / Elixir - [](https://github.com/pomelofashion/challenges/tree/challenge-elixir)
-* Frontend / React - [](https://github.com/pomelofashion/challenges/tree/challenge-react)
-* Mobile App / iOS and Android - [](https://github.com/pomelofashion/challenges/tree/challenge-mobile)
-* Devops / K8s - [](https://github.com/pomelofashion/challenges/tree/challenge-devops)
-* Devops / Ansible - [](https://github.com/pomelofashion/challenges/tree/challenge-ansible)
--->
 
 ### Have fun, and we look forward to your submission!
